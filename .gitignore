@@ -1,0 +1,9 @@
+/gum.exe
+/gum_*/
+
+/data/*.lock/
+/data/*.tmp.*
+
+.DS_Store
+Thumbs.db
+Desktop.ini
